@@ -2,3 +2,51 @@
 
 }
 
+body {
+	text-align: center;
+	background-color: #f092005e;
+}
+
+
+
+#userdata {
+	border: 2px solid grey;
+	border-radius: 8px;
+}
+
+input#userData {
+	padding: 6px 12px;
+	border-radius: 8px;
+}
+
+button {
+	border: 2px solid black;
+	border-radius: 8px;
+	background-color: blue;
+	color: white;
+	margin-top: 10px;
+	font-size: 18px;
+	padding: 10px 16px;
+}
+
+img {
+	height: 400px;
+
+}
+
+#name {
+	font-size: 3.2em;
+	font-family: 'Share Tech', sans-serif;
+}
+
+p {
+
+	font-size: 20px;
+	font-family: 'Share Tech', sans-serif;
+}
+
+h1 {
+	font-family: 'Share Tech', sans-serif;
+	font-size: 1.5em;
+}
+
